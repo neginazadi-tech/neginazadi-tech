@@ -23,9 +23,6 @@ I'm a passionate developer who loves coding, open source, and the tech community
 </a>
 </p>
 
-## Fun Fact ⚡
-I can solve a Rubik's cube in under 2 minutes!
-
 
 
 
