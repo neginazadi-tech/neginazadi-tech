@@ -1,8 +1,11 @@
-### Hi there 👋
 
-Negin Azadi
+<p align="center"><strong>Negin Azadi</strong></p><hr>
 
-:link: https://www.negin-azadi.com
 
-https://www.linkedin.com/in/neginazadi/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/NeginAzadi)
+
+
+
+
+
 
