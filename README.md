@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on something cool!
+Negin Azadi
 
 :link: https://www.negin-azadi.com
 
-📧	n.azadi.job@gmail.com
+https://www.linkedin.com/in/neginazadi/
 
